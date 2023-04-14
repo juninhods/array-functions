@@ -1,0 +1,27 @@
+body{
+    background-color: blue;
+}
+
+.texto{
+    text-align: center;
+    color: #FFEF00	;
+}
+
+.botao{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-color: #ffffff;
+  }
+
+
+  #Funcao{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  #Funcao1{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  
